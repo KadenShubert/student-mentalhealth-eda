@@ -1,4 +1,4 @@
-# student-mentalhealth-eda
+# Student Mental Health EDA - Assignment
 Performing Data Analysis, Data Cleaning, and Machine Learning on [this](https://www.kaggle.com/datasets/shariful07/student-mental-health) Student Mental Health dataset.
 
 ### Exploratory Data Analysis of Student Mental health with depression prediction
