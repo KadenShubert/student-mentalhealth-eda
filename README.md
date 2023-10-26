@@ -19,4 +19,4 @@ The repository contains the following files:
 
 💾 Student_Mental_health.csv: The dataset contains information about students including Gender, Age, Marital Status, and whether they have Depression, Anxiety, Panic Attacks, or have sought treatment. Along with their schooling information including GPA, Year of study, and their current course
 
-📔 Student_Mental_Health_Analysis.ipynb: A jupyter notebook containing all Data Analysis, Data Cleaning, and Machine Learning. This notebook is only intended to be used with the provided dataset
+📔 Student_Mental_Health_Analysis.ipynb: A jupyter notebook containing all Data Analysis, Data Cleaning, and Machine Learning. This notebook was built to be used with the provided dataset and was developed in Google Colab.
